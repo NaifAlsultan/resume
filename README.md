@@ -1,6 +1,6 @@
 # Resume
 
-My Typst resume based on the [basic resume template](https://github.com/stuxf/basic-typst-resume-template)
+My Typst resume based on the [basic resume template](https://github.com/stuxf/basic-typst-resume-template).
 
 Usage:
 
