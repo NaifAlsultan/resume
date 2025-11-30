@@ -86,7 +86,7 @@
   dates: "Feb 2023",
 )
 - Formalized the syntax and grammar of a Turing-complete Arabic programming language.
-- Implemented a lexer, parser, and an interpreter for the language.
+- Implemented a lexer, parser, and an interpreter for the language in Rust.
 
 #project(
   name: "E-Invoicing Software",
