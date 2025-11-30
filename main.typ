@@ -104,6 +104,6 @@
 
 == Skills
 - *Programming Languages*: TypeScript, JavaScript, Java, Python, C, Rust, Haskell, CSS, SCSS, SQL
-- *Frameworks*: Spring, FastAPI, Flask, React, Angular, Vue, Tauri, Electron, Tailwind, shadcn/ui, Material UI
+- *Frameworks*: Spring, FastAPI, Flask, React, React Native, Angular, Vue, Tauri, Electron, Tailwind, shadcn/ui
 - *DevOps*: Docker, Kubernetes, Linux, Cloud, GitHub Actions
 
