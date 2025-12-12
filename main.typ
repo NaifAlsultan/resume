@@ -13,9 +13,9 @@
   location: location,
   email: email,
   // github: github,
-  linkedin: linkedin,
+  // linkedin: linkedin,
   phone: phone,
-  // personal-site: personal-site,
+  personal-site: personal-site,
   accent-color: "#26428b",
   font: "New Computer Modern",
   paper: "us-letter",
@@ -68,7 +68,6 @@
 - Collaborated with designers to develop a robust user interface using TypeScript, React, and Vite.
 - Built a React components library from a custom Figma design system using Tailwind.
 - Cooperated with solution architects and product owners in an agile environment.
-- Supported QA engineers in performing software testing.
 
 #work(
   title: "Software Engineering Intern",
@@ -76,17 +75,14 @@
   company: "STC",
   dates: dates-helper(start-date: "Jun 2022", end-date: "Jan 2023"),
 )
-- Completed a seven-month software engineering coop program.
 - Supported L2 applications operations engineers in identifying and resolving bugs in production databases.
 
 == Personal Projects
 
-#project(
-  name: "Arabic Programming Language",
-  dates: "Feb 2023",
-)
+#link("https://naifalsultan.com/arabic-programming-language.html")[*Arabic Programming Language*] #h(1fr) Dec 2025
 - Formalized the syntax and grammar of a Turing-complete Arabic programming language.
 - Implemented a lexer, parser, and an interpreter for the language in Rust.
+- Compiled the Rust program into WebAssembly and built a web playground to write and run programs.
 
 #project(
   name: "E-Invoicing Software",
